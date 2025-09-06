@@ -41,3 +41,9 @@ Try it live (if deployed): [Streamlit App](link-to-deployment)
 ## 🚀 Live Demo
 
 Try the app here: [Disease Predictor Dashboard](https://predict-disease-ai.streamlit.app)
+
+---
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](app_pic.jpg)

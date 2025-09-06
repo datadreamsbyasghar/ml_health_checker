@@ -38,3 +38,6 @@ Try it live (if deployed): [Streamlit App](link-to-deployment)
 ---
 
 ## 📁 Project Structure
+## 🚀 Live Demo
+
+Try the app here: [Disease Predictor Dashboard](https://predict-disease-ai.streamlit.app)
